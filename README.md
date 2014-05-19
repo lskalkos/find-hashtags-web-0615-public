@@ -27,3 +27,5 @@ Be sure to check out the tests for more guidance in how to construct your regex.
 Test your regex with [Rubular](http://rubular.com/)
 
 [Using Regular Expressions in Ruby](https://www.bluebox.net/insight/blog-article/using-regular-expressions-in-ruby-part-1-of-3)
+
+[Regex Anchors](http://www.regular-expressions.info/anchors.html)
