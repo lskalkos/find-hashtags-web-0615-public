@@ -1,5 +1,5 @@
 ---
-tags: ruby, regex, regular expressions, arrays, iteration, strings, todo
+tags: regex, regular expressions, arrays, iteration, strings, bonus
 language: ruby
 resources: 2
 ---
